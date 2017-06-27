@@ -51,24 +51,17 @@ Sample Input/Output
 ### INPUT
 white shirt
 
-
 polka dot sock
-
 
 red sock
 
-
 superhero shirt
-
 
 torn jeans
 
-
 polka dot sock
 
-
 white shirt
-
 
 polka dot sock
 
@@ -78,17 +71,12 @@ polka dot sock
 
 1|polka dot sock
 
-
 0|polka dot sock
-
 
 0|red sock
 
-
 1|superhero shirt
 
-
 1|torn jeans
-
 
 2|white shirt
