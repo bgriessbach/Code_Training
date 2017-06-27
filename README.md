@@ -2,7 +2,7 @@
 Answering various code challenges and interview questions
 
 
-## Mirrored_Array.py:
+## mirroredArray.py:
 
 Given an array as input, find out if an array has an index that satisfies the following requirement:
 
