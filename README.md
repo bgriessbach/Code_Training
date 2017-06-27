@@ -33,6 +33,7 @@ Program should be able to:
 -  Delete Element from linked List
 
 ## Laundry_Day.py:
+https://codecon.bloomberg.com/contest/5948031613881024512/33
 
 ### Input Specifications
 
