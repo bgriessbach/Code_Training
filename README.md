@@ -2,7 +2,7 @@
 Answering various code challenges and interview questions
 
 
-## Mirrored_Array:
+## Mirrored_Array.py:
 
 Given an array as input, find out if an array has an index that satisfies the following requirement:
 
@@ -20,7 +20,7 @@ Array[1,2,4]-->Returns -1
 
 Array[3]-->Returns -1
 
-## Linked_List:
+## linked_list.py:
 
 Create a linked List in Python via Class Objects.
 
