@@ -1,6 +1,3 @@
-def main():
-	A=[0,5,3,5,6]
-	mirror(A)
 def mirror(A):
 	if len(A)<2:
 		return print(-1)
@@ -19,5 +16,3 @@ def mirror(A):
 			return print(length-position)
 		position+=1
 	return print(-1)
-if __name__ == "__main__":
-    main()
