@@ -19,3 +19,15 @@ Array[0,5]-->Returns 2, as 0=0
 Array[1,2,4]-->Returns -1
 
 Array[3]-->Returns -1
+
+## Linked_List:
+
+Create a linked List in Python via Class Objects.
+
+Program should be able to:
+
+-  Create new Element for linked List
+-  Append Element to end of linked List
+-  find position of given Element in linked List
+-  Insert item at custom position in linked List
+-  Delete Element from linked List
