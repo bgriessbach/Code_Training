@@ -1,54 +1,51 @@
 # Interview_Training
 Answering various code challenges and interview questions
 
+## Convert_Roman_Numerals.py
+https://leetcode.com/problems/roman-to-integer/#/description
+Given a roman numeral, convert it to an integer.  
+Input is guaranteed to be within the range from 1 to 3999.  
+
 ## Two_Sums.py
 https://leetcode.com/problems/two-sum/#/description
 
-Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+Given an array of integers, return indices of the two numbers such that they add up to a specific target.  
+You may assume that each input would have exactly one solution, and you may not use the same element twice.  
 
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
 ### Example:
 Given nums = [2, 7, 11, 15], target = 9 --> return [0, 1]
 
 ## mirroredArray.py:
 
-Given an array as input, find out if an array has an index that satisfies the following requirement:
-
-sum of numbers left of index equals sum of numbers right of index.
-
-If such an index exists, print index number(index starts as 1, not 0). Otherwise print -1.
+Given an array as input, find out if an array has an index that satisfies the following requirement:  
+sum of numbers left of index equals sum of numbers right of index.  
+If such an index exists, print index number(index starts as 1, not 0). Otherwise print -1.  
 
 ### For example:
 
-Array[0,5,3,5]-->Returns 3, as 0+5=5
-
-Array[0,5]-->Returns 2, as 0=0
-
-Array[1,2,4]-->Returns -1
-
-Array[3]-->Returns -1
+Array[0,5,3,5]-->Returns 3, as 0+5=5  
+Array[0,5]-->Returns 2, as 0=0  
+Array[1,2,4]-->Returns -1  
+Array[3]-->Returns -1  
 
 ## linked_list.py:
 
-Create a linked List in Python via Class Objects.
+Create a linked List in Python via Class Objects.  
+Program should be able to:  
 
-Program should be able to:
-
--  Create new Element for linked List
--  Append Element to end of linked List
--  find position of given Element in linked List
--  Insert item at custom position in linked List
--  Delete Element from linked List
++ Create new Element for linked List
++ Append Element to end of linked List
++ find position of given Element in linked List
++ Insert item at custom position in linked List
++ Delete Element from linked List
 
 ## Laundry_Day.py:
 https://codecon.bloomberg.com/contest/5948031613881024512/33
 
 ### Input Specifications
 
-Each article of clothing will have its own separate line. You have a penchant for hoarding, so there is no guarantee as to the number of pieces, but you can assure yourself that each article can be easily categorized by description (name).
-
-Articles of clothing will be fed in as line-delimited list. See below for examples.
-
+Each article of clothing will have its own separate line. You have a penchant for hoarding, so there is no guarantee as to the number of pieces, but you can assure yourself that each article can be easily categorized by description (name).  
+Articles of clothing will be fed in as line-delimited list. See below for examples.  
 
 ### Output Specifications
 
@@ -57,34 +54,20 @@ Output should be an alphabetically (case-insensitive) sorted, line-delimited lis
 Sample Input/Output
 
 ### INPUT
-white shirt
-
-polka dot sock
-
-red sock
-
-superhero shirt
-
-torn jeans
-
-polka dot sock
-
-white shirt
-
-polka dot sock
+white shirt    
+polka dot sock    
+red sock  
+superhero shirt  
+torn jeans  
+polka dot sock  
+white shirt  
+polka dot sock  
 
 
 ### OUTPUT
-
-
-1|polka dot sock
-
-0|polka dot sock
-
-0|red sock
-
-1|superhero shirt
-
-1|torn jeans
-
-2|white shirt
+1|polka dot sock  
+0|polka dot sock    
+0|red sock  
+1|superhero shirt  
+1|torn jeans  
+2|white shirt  
