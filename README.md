@@ -4,7 +4,7 @@ Answering various code challenges and interview questions
 ## Common_Prefix.py
 https://leetcode.com/problems/longest-common-prefix/#/description  
 Write a function to find the longest common prefix string amongst an array of strings.  
-Note:  
+### Note:  
 I adapted the question somewhat from the original question:  
 + ["DOG","dog"] --> recognised as same letters prefix result: "dog"
 + check for random " " in front of or trailing strings and delete
