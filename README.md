@@ -1,4 +1,4 @@
-# Interview_Training
+# Code Training
 Answering various code challenges and interview questions
 
 ## Search_Insert_Position.py
