@@ -6,9 +6,7 @@ class Solution(object):
             if item in mydict.keys():
                 mylist.append(mydict[item])
             else:
-                if len(mylist)<1:
-                    return False
-                if mylist.pop()!=item:
+                if len(mylist)<1 or mylist.pop()!=item:
                     return False
         if len(mylist)!=0:
             return False
