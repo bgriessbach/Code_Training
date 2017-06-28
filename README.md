@@ -100,3 +100,11 @@ polka dot sock
 1|superhero shirt  
 1|torn jeans  
 2|white shirt  
+
+
+## Pending:
+https://leetcode.com/problems/count-and-say/#/description  
+https://leetcode.com/problems/merge-two-sorted-lists/#/description  
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/#/description  
+
+
