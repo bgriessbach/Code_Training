@@ -1,6 +1,11 @@
 # Interview_Training
 Answering various code challenges and interview questions
 
+## Balanced_Brackets.py
+https://leetcode.com/problems/valid-parentheses/#/description  
+Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.  
+The brackets must close in the correct order, "()" and "()[]{}" are all valid but "(]" and "([)]" are not.  
+
 ## Common_Prefix.py
 https://leetcode.com/problems/longest-common-prefix/#/description  
 Write a function to find the longest common prefix string amongst an array of strings.  
