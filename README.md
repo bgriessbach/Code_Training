@@ -1,6 +1,15 @@
 # Interview_Training
 Answering various code challenges and interview questions
 
+## Common_Prefix.py
+https://leetcode.com/problems/longest-common-prefix/#/description  
+Write a function to find the longest common prefix string amongst an array of strings.  
+Note:  
+I adapted the question somewhat from the original question:  
++ ["DOG","dog"] --> recognised as same letters prefix result: "dog"
++ check for random " " in front of or trailing strings and delete
+
+
 ## Convert_Roman_Numerals.py
 https://leetcode.com/problems/roman-to-integer/#/description  
 Given a roman numeral, convert it to an integer.  
