@@ -1,8 +1,12 @@
 # Code Training
 Answering various code challenges and interview questions
 
+## Needle_haystack.py
+https://leetcode.com/problems/implement-strstr/#/description  
+Returns the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.  
+
 ## Search_Insert_Position.py
-https://leetcode.com/problems/search-insert-position/#/description
+https://leetcode.com/problems/search-insert-position/#/description  
 Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.  
 You may assume no duplicates in the array.  
 
