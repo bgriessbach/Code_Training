@@ -1,6 +1,10 @@
 # Code Training
 Answering various code challenges and interview questions
 
+## contains_duplicate.py
+https://leetcode.com/problems/contains-duplicate/#/description  
+Given an array of integers, find if the array contains any duplicates. Your function should return true if any value appears at least twice in the array, and it should return false if every element is distinct.  
+
 ## two_sums_2.py
 https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/#/description  
 Given an array of integers that is already sorted in ascending order, find two numbers such that they add up to a specific target number.  
