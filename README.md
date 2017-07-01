@@ -1,6 +1,10 @@
 # Code Training
 Answering various code challenges and interview questions
 
+## find_single.py
+https://leetcode.com/problems/single-number/#/description
+Given an array of integers, every element appears twice except for one. Find that single one.
+
 ## Remove_duplicates.py
 https://leetcode.com/problems/remove-duplicates-from-sorted-array/#/description  
 Given a sorted array, remove the duplicates in place such that each element appear only once and return the new length.  
