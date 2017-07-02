@@ -1,6 +1,10 @@
 # Code Training
 Answering various code challenges and interview questions
 
+## merged_meetings.py
+https://www.interviewcake.com/question/python/merging-ranges
+Slightly varried input of Lists within Lists
+
 ## contains_duplicate.py
 https://leetcode.com/problems/contains-duplicate/#/description  
 Given an array of integers, find if the array contains any duplicates. Your function should return true if any value appears at least twice in the array, and it should return false if every element is distinct.  
