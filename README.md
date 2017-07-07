@@ -14,7 +14,7 @@ Given 1->1->2, return 1->2.
 Given 1->1->2->3->3, return 1->2->3.  
 
 ## merged_meetings.py
-https://www.interviewcake.com/question/python/merging-ranges
+https://www.interviewcake.com/question/python/merging-ranges  
 Slightly varried input of Lists within Lists
 
 ## contains_duplicate.py
