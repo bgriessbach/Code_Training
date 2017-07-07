@@ -1,7 +1,7 @@
 # Code Training
 Answering various code challenges and interview questions
 
-##List_Cycle.py:
+## List_Cycle.py:
 https://leetcode.com/problems/linked-list-cycle/#/description  
 Given a linked list, determine if it has a cycle in it.  
 
