@@ -1,6 +1,10 @@
 # Code Training
 Answering various code challenges and interview questions
 
+##List_Cycle.py:
+https://leetcode.com/problems/linked-list-cycle/#/description  
+Given a linked list, determine if it has a cycle in it.  
+
 ## LinkedLists_duplicates.py
 https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/description  
 Given a sorted linked list, delete all duplicates such that each element appear only once.  
