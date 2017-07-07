@@ -10,10 +10,10 @@ class Solution(object):
             return False
         tur=head
         hare=head
-        while tur.next and hare.next:
-            tur=tur.next
+        while hare.next:
             if hare.next.next==None:
                 return False
+            tur=tur.next
             hare=hare.next.next
             if tur.val==hare.val:
                 return True
