@@ -1,6 +1,12 @@
 # Code Training
 Answering various code challenges and interview questions
 
+## Add_one.py:
+https://leetcode.com/problems/plus-one/#/description  
+Given a non-negative integer represented as a non-empty array of digits, plus one to the integer.  
+You may assume the integer do not contain any leading zero, except the number 0 itself.  
+The digits are stored such that the most significant digit is at the head of the list.  
+
 ## List_Cycle.py:
 https://leetcode.com/problems/linked-list-cycle/#/description  
 Given a linked list, determine if it has a cycle in it.  
@@ -171,5 +177,4 @@ polka dot sock
 https://leetcode.com/problems/count-and-say/#/description  
 https://leetcode.com/problems/merge-two-sorted-lists/#/description  
 https://leetcode.com/problems/maximum-subarray/#/description  
-https://leetcode.com/problems/plus-one/#/description  
 
