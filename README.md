@@ -1,6 +1,13 @@
 # Code Training
 Answering various code challenges and interview questions
 
+## merge_arrays.py
+https://leetcode.com/problems/merge-sorted-array/#/description
+Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array.  
+You may assume that nums1 has enough space (size that is greater or equal to m + n) to hold additional elements from nums2. The number of elements initialized in nums1 and nums2 are m and n respectively.  
+### Note:
+The test case lists had trailing 0s which were not counted as part of the list itself. Therefore, the first step of decreasing the lists sizes until it matched with m,n respectivily was neccesary. 
+
 ## max_subarray.py:
 https://leetcode.com/problems/maximum-subarray/#/description  
 Find the contiguous subarray within an array (containing at least one number) which has the largest sum.  
