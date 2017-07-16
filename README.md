@@ -181,5 +181,4 @@ polka dot sock
 
 ## Pending:
 https://leetcode.com/problems/count-and-say/#/description  
-https://leetcode.com/problems/maximum-subarray/#/description  
 
