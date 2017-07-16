@@ -1,5 +1,7 @@
 class Solution(object):
     def maxSubArray(self, nums):
+        if not nums:
+            return None
         maxSum=nums[0]
         curSum=0
         for item in nums:            
