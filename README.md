@@ -1,6 +1,13 @@
 # Code Training
 Answering various code challenges and interview questions
 
+## moving_average.py
+Given an input array of numbers, calculate the moving average of 3 indexes at a time.  
+The length of the array is a multiple of 3.  
+### Example:
+[1,2,3,4,5,6]--->[2 3 4 5]  
+[1,4,6,12,3,17]-->[3.67 7.33 7.00 10.67]  
+
 ## merge_arrays.py
 https://leetcode.com/problems/merge-sorted-array/#/description  
 Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array.  
