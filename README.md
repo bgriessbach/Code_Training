@@ -1,6 +1,12 @@
 # Code Training
 Answering various code challenges and interview questions
 
+## movie_date_from_hell.py
+https://www.hackerrank.com/challenges/beautiful-days-at-the-movies?h_r=next-challenge&h_v=zen  
+Logan wants to go to the movies with Lily on some day X satisfying i<=X<=j, but he knows she only goes to the movies on days she considers to be beautiful. Lily considers a day to be beautiful if the absolute value of the difference between X and reversed(X) is evenly divisible by k.  
+
+Given i, j, and k (in one line seperated by " "), count and print the number of beautiful days when Logan and Lily can go to the movies.  
+
 ## moving_average.py
 Given an input array of numbers, calculate the moving average of 3 indexes at a time.  
 The length of the array is a multiple of 3.  
