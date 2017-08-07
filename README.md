@@ -1,8 +1,19 @@
 # Code Training
 Answering various code challenges and interview questions
 
+## utopian_tree.py
+
+https://www.hackerrank.com/challenges/utopian-tree/problem  
+The Utopian Tree goes through 2 cycles of growth every year. Each spring, it doubles in height. Each summer, its height increases by 1 meter.  
+
+Laura plants a Utopian Tree sapling with a height of 1 meter at the onset of spring. How tall will her tree be after N growth cycles?  
+The first line contains an integer T, the number of test cases. 
+T subsequent lines each contain an integer N, denoting the number of cycles for that test case.  
+
+
+
 ## movie_date_from_hell.py
-https://www.hackerrank.com/challenges/beautiful-days-at-the-movies?h_r=next-challenge&h_v=zen  
+https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
 Logan wants to go to the movies with Lily on some day X satisfying i<=X<=j, but he knows she only goes to the movies on days she considers to be beautiful. Lily considers a day to be beautiful if the absolute value of the difference between X and reversed(X) is evenly divisible by k.  
 
 Given i, j, and k (in one line seperated by " "), count and print the number of beautiful days when Logan and Lily can go to the movies.  
